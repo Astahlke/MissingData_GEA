@@ -4,7 +4,7 @@ This repo contains scripts for creating missing data from the CDPOP simulations 
 
 These data and this work is presented in a manuscript to be submitted. Please cite:
 
-Xuereb A*, Stahlke A*, Bermingham M, Brown M, Nonaka E, Razgour O, Pavinato V.A.C, Joost S, Andrews K, Landguth E, Manel S, Forester B.R. Missing data have limited effects on the performance of genotype-environment association methods. Submitted. 
+Xuereb A, Stahlke A, Bermingham M, Brown M, Nonaka E, Razgour O, Pavinato V.A.C, Joost S, Andrews K, Landguth E, Manel S, Forester B.R. Missing data have limited effects on the performance of genotype-environment association methods. Submitted. 
 
 
 The original compuater simulations can be found on [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.v0c77)
